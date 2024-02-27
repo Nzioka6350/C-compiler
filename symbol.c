@@ -1,7 +1,7 @@
 #include "global.h"
 
-#define STRMAX 1000
-#define SYMMAX 1000
+#define STRMAX 999
+#define SYMMAX 100
 
 char lexemes[STRMAX];
 int lastchar = -1;
